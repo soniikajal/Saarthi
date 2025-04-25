@@ -4,7 +4,7 @@ import random
 
 app = Flask(__name__)
 
-# Dictionary of emotions and corresponding shlokas with meanings
+
 emotions_shlokas = {
     "1": {  # Anxiety/Worry
         "shlokas": [
